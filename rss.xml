@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/benjaminedwards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 18:37:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jul 2015 20:32:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benjaminedwards/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b231b0-cef8-4885-bcc9-dad19aa171e5.gif">]]></description>
+            <link>https://thegrid.ai/benjaminedwards/d8ce8a21-461a-44bd-9ece-3846b9943793/index.html</link>
+            <guid isPermaLink="false">d8ce8a21-461a-44bd-9ece-3846b9943793</guid>
+            <pubDate>Thu, 30 Jul 2015 20:29:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Into The woods]]></title>
             <description><![CDATA[<article><h1>Into The woods</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d05184c-7c0d-4f7c-9531-eb57d90e115e.jpg"></article>]]></description>
-            <link>undefined86332f06-1253-4d71-b038-77b7eacffd28/index.html</link>
+            <link>https://thegrid.ai/benjaminedwards/86332f06-1253-4d71-b038-77b7eacffd28/index.html</link>
             <guid isPermaLink="false">86332f06-1253-4d71-b038-77b7eacffd28</guid>
             <pubDate>Wed, 29 Jul 2015 18:37:19 GMT</pubDate>
         </item>
